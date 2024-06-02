@@ -49,7 +49,6 @@ button {
 
 
 #generated-el {
-    display: inline;
     background-color: #2C2D4B;
     padding: 20px;
     size: 10px;
@@ -57,7 +56,6 @@ button {
 }
 
 #generated-el2 {
-    display: inline;
     background-color: #2C2D4B;
     padding: 20px;
     size: 10px;
