@@ -1,0 +1,64 @@
+html {
+    height: 100%;
+    background-color: white;
+}
+
+body {
+    background-color: white;
+    padding: 5px;
+    border-radius: 25px;
+    border-color: #D6CCCC;
+    border-width: 3px;
+    border-style: solid;
+}
+
+div {
+    background-color: #212234;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: white;
+}
+
+#color {
+    margin: 0%;
+    color: #2AB170;
+}
+
+button {
+    background-color: #2AB170;
+    border-radius: 7px;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+#line {
+    background-color: #68746D;
+    padding: 1px;
+}
+
+
+#generated-el {
+    display: inline;
+    background-color: #2C2D4B;
+    padding: 20px;
+    size: 10px;
+    text-align: center;
+}
+
+#generated-el2 {
+    display: inline;
+    background-color: #2C2D4B;
+    padding: 20px;
+    size: 10px;
+}
